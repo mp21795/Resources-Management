@@ -1,0 +1,26 @@
+{
+  "name": "resources-management",
+  "version": "1.0.0",
+  "description": "This project will manages all the resources (human and material) of an agency",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp21795/Resources-Management.git"
+  },
+  "author": "Matteo Porreca (https://github.com/mp21795)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mp21795/Resources-Management/issues"
+  },
+  "homepage": "https://github.com/mp21795/Resources-Management#readme"
+}
